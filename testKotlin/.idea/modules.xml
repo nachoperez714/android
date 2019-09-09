@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Codika\AndroidStudioProjects\testKotlin\AndroidStudioProjects.iml" filepath="C:\Users\Codika\AndroidStudioProjects\testKotlin\AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationlib/animationlib.iml" filepath="$PROJECT_DIR$/animationlib/animationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testKotlin.iml" filepath="$PROJECT_DIR$/testKotlin.iml" />
+    </modules>
+  </component>
+</project>
